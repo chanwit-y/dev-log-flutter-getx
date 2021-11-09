@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dev_log_flutter_getx.iml" filepath="$PROJECT_DIR$/dev_log_flutter_getx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/dev_log_flutter_getx_android.iml" filepath="$PROJECT_DIR$/android/dev_log_flutter_getx_android.iml" />
+    </modules>
+  </component>
+</project>
